@@ -1,0 +1,30 @@
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = https://github.com/MunifTanjim/minimo
+[submodule "themes/hugo-kiera"]
+	path = themes/hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
+[submodule "themes/hugo-goa"]
+	path = themes/hugo-goa
+	url = https://github.com/shenoybr/hugo-goa
+[submodule "themes/simplicity"]
+	path = themes/simplicity
+	url = https://github.com/eshlox/simplicity.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/themes/LoveIt"]
+	path = themes/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/KeepIt"]
+	path = themes/KeepIt
+	url = https://github.com/Fastbyte01/KeepIt.git
+[submodule "themes/hugo-type-theme"]
+	path = themes/hugo-type-theme
+	url = https://github.com/digitalcraftsman/hugo-type-theme.git
